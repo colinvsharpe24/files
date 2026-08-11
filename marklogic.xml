@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsletter>
+  <editionTitle>Healthy Dialogue Podcast</editionTitle>
+  <editionDate>August 11, 2026</editionDate>
+  <article>
+    <articleId>jama-hd-2026-0811-01</articleId>
+    <category>Podcast &#183; Nutrition &amp; Obesity</category>
+    <title>Food Policy in the Age of GLP-1s</title>
+    <authors>Hosted by A. Rivera, MD</authors>
+    <journal>JAMA</journal>
+    <summary>What led to the current obesity epidemic in the US, and how are GLP-1 receptor agonists reshaping the food-policy conversation? A discussion with three researchers.</summary>
+    <isPublished>true</isPublished>
+  </article>
+  <article>
+    <articleId>jama-hd-2026-0811-02</articleId>
+    <category>Original Investigation &#183; Cardiology</category>
+    <title>SGLT2 Inhibitors and Heart-Failure Outcomes</title>
+    <authors>L. Chen, PhD; M. Okafor, MD</authors>
+    <journal>JAMA Cardiology</journal>
+    <summary>A randomized trial across 42 sites reports on hospitalization outcomes at 24 months.</summary>
+    <isPublished>true</isPublished>
+  </article>
+  <article>
+    <articleId>jama-hd-2026-0811-03</articleId>
+    <category>Viewpoint &#183; Health Policy</category>
+    <title>Nutrition Labeling and Downstream Cardiometabolic Risk</title>
+    <authors>S. Nakamura, MD, MPH</authors>
+    <journal>JAMA Internal Medicine</journal>
+    <summary>This block demonstrates the embargo guard: the access CTA is hidden until the article is live, so pre-embargo content never leaks a working link.</summary>
+    <isPublished>false</isPublished>
+  </article>
+</newsletter>
